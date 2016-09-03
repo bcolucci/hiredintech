@@ -1,0 +1,12 @@
+{
+  "name": "hiredintech",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcolucci/hiredintech.git"
+  },
+  "author": "Brice Colucci <brice.colucci@gmail.com>",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
